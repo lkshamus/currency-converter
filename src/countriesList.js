@@ -999,7 +999,7 @@ export const countries = [
   "name":"Philippines",
   "phoneCode":"+63",
   "capital":"Manila",
-  "abbr":"PHL"
+  "abbr":"PHP"
   },
   {
   "name":"Poland",

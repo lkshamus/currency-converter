@@ -3,721 +3,709 @@ export const countries = [
   "name":"Afghanistan",
   "phoneCode":"+93",
   "capital":"Kabul",
-  "abbr":"AFG"
+  "abbr":"AFN"
   },
   {
   "name":"Albania",
   "phoneCode":"+355",
   "capital":"Tirana",
-  "abbr":"ALB"
+  "abbr":"ALL"
   },
   {
   "name":"Algeria",
   "phoneCode":"+213",
   "capital":"Algiers",
-  "abbr":"DZA"
+  "abbr":"DZD"
   },
   {
   "name":"American Samoa",
   "phoneCode":"+1-684",
   "capital":"Pago Pago",
-  "abbr":"ASM"
+  "abbr":"USD"
   },
   {
   "name":"Andorra",
   "phoneCode":"+376",
   "capital":"Andorra la Vella",
-  "abbr":"AND"
+  "abbr":"EUR"
   },
   {
   "name":"Angola",
   "phoneCode":"+244",
   "capital":"Luanda",
-  "abbr":"AGO"
+  "abbr":"AOA"
   },
   {
   "name":"Anguilla",
   "phoneCode":"+1-264",
   "capital":"‎The Valley",
-  "abbr":"AIA"
+  "abbr":"XCD"
   },
   {
   "name":"Antigua and Barbuda",
   "phoneCode":"+1-268",
   "capital":"Saint John's",
-  "abbr":"ATG"
+  "abbr":"XCD"
   },
   {
   "name":"Argentina",
   "phoneCode":"+54",
   "capital":"Buenos Aires",
-  "abbr":"ARG"
+  "abbr":"ARS"
   },
   {
   "name":"Armenia",
   "phoneCode":"+374",
   "capital":"Yerevan",
-  "abbr":"ARM"
+  "abbr":"AMD"
   },
   {
   "name":"Aruba",
   "phoneCode":"+297",
   "capital":"Oranjestad",
-  "abbr":"ABW"
+  "abbr":"AWG"
   },
   {
   "name":"Australia",
   "phoneCode":"+61",
   "capital":"Canberra",
-  "abbr":"AUS"
+  "abbr":"AUD"
   },
   {
   "name":"Austria",
   "phoneCode":"+43",
   "capital":"Vienna",
-  "abbr":"AUT"
+  "abbr":"EUR"
   },
   {
   "name":"Azerbaijan",
   "phoneCode":"+994",
   "capital":"Baku",
-  "abbr":"AZE"
+  "abbr":"AZN"
   },
   {
   "name":"Bahamas",
   "phoneCode":"+1-242",
   "capital":"Nassau",
-  "abbr":"BHM"
+  "abbr":"BSD"
   },
   {
   "name":"Bahrain",
   "phoneCode":"+973",
   "capital":"Manama",
-  "abbr":"BHR"
+  "abbr":"BHD"
   },
   {
   "name":"Bangladesh",
   "phoneCode":"+880",
   "capital":"Dhaka",
-  "abbr":"BGD"
+  "abbr":"BDT"
   },
   {
   "name":"Barbados",
   "phoneCode":"+1-246",
   "capital":"Bridgetown",
-  "abbr":"BRB"
+  "abbr":"BBD"
   },
   {
   "name":"Belarus",
   "phoneCode":"+375",
   "capital":"Minsk",
-  "abbr":"BLR"
+  "abbr":"BYN"
   },
   {
   "name":"Belgium",
   "phoneCode":"+32",
   "capital":"Brussels",
-  "abbr":"BEL"
+  "abbr":"EUR"
   },
   {
   "name":"Belize",
   "phoneCode":"+501",
   "capital":"Belmopan",
-  "abbr":"BLZ"
+  "abbr":"BZD"
   },
   {
   "name":"Benin",
   "phoneCode":"+229",
   "capital":"Porto-Novo",
-  "abbr":"BEN"
+  "abbr":"XOF"
   },
   {
   "name":"Bermuda",
   "phoneCode":"+1-441",
   "capital":"Hamilton",
-  "abbr":"BMU"
+  "abbr":"BMD"
   },
   {
   "name":"Bhutan",
   "phoneCode":"+975",
   "capital":"Thimphu",
-  "abbr":"BTN"
+  "abbr":"INR"
   },
   {
   "name":"Bolivia",
   "phoneCode":"+591",
   "capital":"Sucre,La Paz",
-  "abbr":"BOL"
+  "abbr":"BOB"
   },
   {
   "name":"Bonaire, Sint Eustatius and Saba",
   "phoneCode":"+599",
   "capital":"Caribbean Netherlands",
-  "abbr":"BES"
+  "abbr":"USD"
   },
   {
   "name":"Bosnia and Herzegovina",
   "phoneCode":"+387",
   "capital":"Sarajevo",
-  "abbr":"BIH"
+  "abbr":"BAM"
   },
   {
   "name":"Botswana",
   "phoneCode":"+267",
   "capital":"Gaborone",
-  "abbr":"BWA"
+  "abbr":"BWP"
   },
   {
   "name":"Brazil",
   "phoneCode":"+55",
   "capital":"Brasilia",
-  "abbr":"BRA"
+  "abbr":"BRL"
   },
   {
   "name":"British Indian Ocean Territory",
   "phoneCode":"+246",
   "capital":"British Colony, Indian Ocean",
-  "abbr":"IOT"
+  "abbr":"USD"
   },
   {
   "name":"British Virgin Islands",
   "phoneCode":"+1-284",
   "capital":"RoadTown",
-  "abbr":"VGB"
+  "abbr":"BVI"
   },
   {
   "name":"Brunei Darussalam",
   "phoneCode":"+673",
   "capital":"Brunei",
-  "abbr":"BRN"
+  "abbr":"BND"
   },
   {
   "name":"Bulgaria",
   "phoneCode":"+359",
   "capital":"Sofia",
-  "abbr":"BGR"
+  "abbr":"BGN"
   },
   {
   "name":"Burkina Faso",
   "phoneCode":"+226",
   "capital":"Ouagadougou",
-  "abbr":"BFA"
+  "abbr":"XOF"
   },
   {
   "name":"Burundi",
   "phoneCode":"+257",
   "capital":"Gitega",
-  "abbr":"BDI"
+  "abbr":"BIF"
   },
   {
   "name":"Cabo Verde",
   "phoneCode":"+238",
   "capital":"Praia",
-  "abbr":"CPV"
+  "abbr":"CVE"
   },
   {
   "name":"Cambodia",
   "phoneCode":"+855",
   "capital":"Phnom Penh",
-  "abbr":"KHM"
+  "abbr":"KHR"
   },
   {
   "name":"Cameroon",
   "phoneCode":"+237",
   "capital":"Yaounde",
-  "abbr":"CMR"
+  "abbr":"XAF"
   },
   {
   "name":"Canada",
   "phoneCode":"+1",
   "capital":"Ottawa",
-  "abbr":"CAN"
+  "abbr":"CAD"
   },
   {
   "name":"Cayman Islands",
   "phoneCode":"+1-345",
   "capital":"George Town",
-  "abbr":"CYM"
+  "abbr":"KYD"
   },
   {
   "name":"Central African Republic",
   "phoneCode":"+236",
   "capital":"Bangui",
-  "abbr":"CAF"
+  "abbr":"XAF"
   },
   {
   "name":"Chad",
   "phoneCode":"+235",
   "capital":"N'Djamena",
-  "abbr":"TCD"
+  "abbr":"XAF"
   },
   {
   "name":"Chile",
   "phoneCode":"+56",
   "capital":"Santiago",
-  "abbr":"CHL"
+  "abbr":"CLP"
   },
   {
   "name":"China",
   "phoneCode":"+86",
   "capital":"Beijing",
-  "abbr":"CHN"
+  "abbr":"CNY"
   },
   {
   "name":"Colombia",
   "phoneCode":"+57",
   "capital":"Bogotá",
-  "abbr":"COL"
+  "abbr":"COP"
   },
   {
   "name":"Comoros",
   "phoneCode":"+269",
   "capital":"Moroni",
-  "abbr":"COM"
+  "abbr":"KMF"
   },
   {
   "name":"Cook Islands",
   "phoneCode":"+682",
   "capital":"Avarua",
-  "abbr":"COK"
+  "abbr":"NZD"
   },
   {
   "name":"Costa Rica",
   "phoneCode":"+506",
   "capital":"San Jose",
-  "abbr":"CRI"
-  },
-  {
-  "name":"Côte dIvoire",
-  "phoneCode":"+225",
-  "capital":"Yamoussoukro",
-  "abbr":"CIV"
+  "abbr":"CRC"
   },
   {
   "name":"Croatia",
   "phoneCode":"+385",
   "capital":"Zagreb",
-  "abbr":"HRV"
+  "abbr":"HRK"
   },
   {
   "name":"Cuba",
   "phoneCode":"+53",
   "capital":"Havana",
-  "abbr":"CUB"
+  "abbr":"CUC"
   },
   {
   "name":"Curaçao",
   "phoneCode":"+599",
   "capital":"Willemstad",
-  "abbr":"CUW"
+  "abbr":"ANG"
   },
   {
   "name":"Cyprus",
   "phoneCode":"+357",
   "capital":"Nicosia",
-  "abbr":"CYP"
-  },
-  {
-  "name":"Czechia",
-  "phoneCode":"+420",
-  "capital":"Prague",
-  "abbr":"CZE"
+  "abbr":"EUR"
   },
   {
   "name":"Democratic Republic Of The Congo",
   "phoneCode":"+243",
   "capital":"Kinshasa",
-  "abbr":"DNK"
+  "abbr":"CDF"
   },
   {
   "name":"Denmark",
   "phoneCode":"+45",
   "capital":"Copenhagen",
-  "abbr":"DNK"
+  "abbr":"DKK"
   },
   {
   "name":"Djibouti",
   "phoneCode":"+253",
   "capital":"Djibouti (city)",
-  "abbr":"DJI"
+  "abbr":"DJF"
   },
   {
   "name":"Dominica",
   "phoneCode":"+1-767",
   "capital":"Roseau",
-  "abbr":"DMA"
+  "abbr":"XCD"
   },
   {
   "name":"Dominican Republic",
   "phoneCode":"+1-809",
   "capital":"Santo Domingo",
-  "abbr":"DOM"
+  "abbr":"DOP"
   },
   {
   "name":"Ecuador",
   "phoneCode":"+593",
   "capital":"Quito",
-  "abbr":"ECU"
+  "abbr":"USD"
   },
   {
   "name":"Egypt",
   "phoneCode":"+20",
   "capital":"Cairo",
-  "abbr":"EGY"
+  "abbr":"EGP"
   },
   {
   "name":"El Salvador",
   "phoneCode":"+503",
   "capital":"San Salvador",
-  "abbr":"SLV"
+  "abbr":"SVC"
   },
   {
   "name":"Equatorial Guinea",
   "phoneCode":"+240",
   "capital":"Malabo,Oyala",
-  "abbr":"GNQ"
+  "abbr":"XAF"
   },
   {
   "name":"Eritrea",
   "phoneCode":"+291",
   "capital":"Asmara",
-  "abbr":"ERI"
+  "abbr":"ERN"
   },
   {
   "name":"Estonia",
   "phoneCode":"+372",
   "capital":"Tallinn",
-  "abbr":"EST"
+  "abbr":"EUR"
   },
   {
   "name":"Ethiopia",
   "phoneCode":"+251",
   "capital":"Addis Ababa",
-  "abbr":"ETH"
+  "abbr":"ETB"
   },
   {
   "name":"Falkland Islands",
   "phoneCode":"+500",
   "capital":"FK",
-  "abbr":"FLK"
+  "abbr":"FKP"
   },
   {
   "name":"Faroe Islands",
   "phoneCode":"+298",
   "capital":"STANLEY",
-  "abbr":"FRO"
+  "abbr":"DKK"
   },
   {
   "name":"Federated States of Micronesia",
   "phoneCode":"+691",
   "capital":"Palikir",
-  "abbr":"FSM"
+  "abbr":"USD"
   },
   {
   "name":"Fiji",
   "phoneCode":"+679",
   "capital":"Suva",
-  "abbr":"FJI"
+  "abbr":"FJD"
   },
   {
   "name":"Finland",
   "phoneCode":"+358",
   "capital":"Helsinki",
-  "abbr":"FIN"
+  "abbr":"EUR"
   },
   {
   "name":"France",
   "phoneCode":"+33",
   "capital":"Paris",
-  "abbr":"FRA"
+  "abbr":"EUR"
   },
   {
   "name":"French Guiana",
   "phoneCode":"+594",
   "capital":"Cayenne",
-  "abbr":"GUF"
+  "abbr":"EUR"
   },
   {
   "name":"French Polynesia",
   "phoneCode":"+689",
   "capital":"Papeete",
-  "abbr":"PYF"
+  "abbr":"XPF"
   },
   {
   "name":"Gabon",
   "phoneCode":"+241",
   "capital":"Libreville",
-  "abbr":"GAB"
+  "abbr":"XAF"
   },
   {
   "name":"Gambia",
   "phoneCode":"+220",
   "capital":"Banjul",
-  "abbr":"GAM"
+  "abbr":"GMD"
   },
   {
   "name":"Georgia",
   "phoneCode":"+995",
   "capital":"Tbilisi",
-  "abbr":"GEO"
+  "abbr":"GEL"
   },
   {
   "name":"Germany",
   "phoneCode":"+49",
   "capital":"Berlin",
-  "abbr":"DEU"
+  "abbr":"EUR"
   },
   {
   "name":"Ghana",
   "phoneCode":"+233",
   "capital":"Accra",
-  "abbr":"GHA"
+  "abbr":"GHS"
   },
   {
   "name":"Gibraltar",
   "phoneCode":"+350",
   "capital":"Gibraltar",
-  "abbr":"GIB"
+  "abbr":"GIP"
   },
   {
   "name":"Greece",
   "phoneCode":"+30",
   "capital":"Athens",
-  "abbr":"GRC"
+  "abbr":"EUR"
   },
   {
   "name":"Greenland",
   "phoneCode":"+299",
   "capital":"Nuuk",
-  "abbr":"GRL"
+  "abbr":"DKK"
   },
   {
   "name":"Grenada",
   "phoneCode":" +1-473",
   "capital":"Saint George's",
-  "abbr":"GRD"
+  "abbr":"XCD"
   },
   {
   "name":"Guadeloupe",
   "phoneCode":"+590",
   "capital":"Basse-Terre",
-  "abbr":"GLP"
+  "abbr":"EUR"
   },
   {
   "name":"Guam",
   "phoneCode":"+1-671",
   "capital":"Hagatna",
-  "abbr":"GUM"
+  "abbr":"USD"
   },
   {
   "name":"Guatemala",
   "phoneCode":"+502",
   "capital":"Guatemala City",
-  "abbr":"GTM"
+  "abbr":"GTQ"
   },
   {
   "name":"Guinea",
   "phoneCode":"+224",
   "capital":"Conakry",
-  "abbr":"GIN"
+  "abbr":"GNF"
   },
   {
   "name":"Guinea-Bissau",
   "phoneCode":"+245",
   "capital":"Bissau",
-  "abbr":"GNB"
+  "abbr":"XOF"
   },
   {
   "name":"Guyana",
   "phoneCode":"+592",
   "capital":"Georgetown",
-  "abbr":"GUY"
+  "abbr":"GYD"
   },
   {
   "name":"Haiti",
   "phoneCode":"+509",
   "capital":"Port-au-Prince",
-  "abbr":"HTI"
+  "abbr":"HTG"
   },
   {
   "name":"Honduras",
   "phoneCode":"+504",
   "capital":"Tegucigalpa",
-  "abbr":"HND"
+  "abbr":"HNL"
   },
   {
   "name":"Hong Kong",
   "phoneCode":"+852",
   "capital":"Hong Kong",
-  "abbr":"HKG"
+  "abbr":"HKD"
   },
   {
   "name":"Hungary",
   "phoneCode":"+36",
   "capital":"Budapest",
-  "abbr":"HUN"
+  "abbr":"HUF"
   },
   {
   "name":"Iceland",
   "phoneCode":"+354",
   "capital":"Reykjavik",
-  "abbr":"ISL"
+  "abbr":"ISK"
   },
   {
   "name":"India",
   "phoneCode":"+91",
   "capital":"New Delhi",
-  "abbr":"IND"
+  "abbr":"INR"
   },
   {
   "name":"Indonesia",
   "phoneCode":"+62",
   "capital":"Jakarta",
-  "abbr":"IDN"
+  "abbr":"IDR"
   },
   {
   "name":"Iran",
   "phoneCode":"+98",
   "capital":"Tehran",
-  "abbr":"IRN"
+  "abbr":"IRR"
   },
   {
   "name":"Iraq",
   "phoneCode":"+964",
   "capital":"Baghdad",
-  "abbr":"IRQ"
+  "abbr":"IQD"
   },
   {
   "name":"Ireland",
   "phoneCode":"+353",
   "capital":"Dublin",
-  "abbr":"IRL"
+  "abbr":"EUR"
   },
   {
   "name":"Israel",
   "phoneCode":"+972",
   "capital":"Jerusalem",
-  "abbr":"ISR"
+  "abbr":"ILS"
   },
   {
   "name":"Italy",
   "phoneCode":"+39",
   "capital":"Rome",
-  "abbr":"ITA"
+  "abbr":"EUR"
   },
   {
   "name":"Jamaica",
   "phoneCode":"+1-876",
   "capital":"Kingston",
-  "abbr":"JAM"
+  "abbr":"JMD"
   },
   {
   "name":"Japan",
   "phoneCode":"+81",
   "capital":"Tokyo",
-  "abbr":"JPN"
+  "abbr":"JPY"
   },
   {
   "name":"Jordan",
   "phoneCode":"+962",
   "capital":"Amman",
-  "abbr":"JOR"
+  "abbr":"JOD"
   },
   {
   "name":"Kazakhstan",
   "phoneCode":"+7",
   "capital":"Nur-Sultan",
-  "abbr":"KAZ"
+  "abbr":"KZT"
   },
   {
   "name":"Kenya",
   "phoneCode":"+254",
   "capital":"Nairobi",
-  "abbr":"KEN"
+  "abbr":"KES"
   },
   {
   "name":"Kiribati",
   "phoneCode":"+686",
   "capital":"Tarawa",
-  "abbr":"KIR"
+  "abbr":"AUD"
   },
   {
   "name":"Kosovo",
   "phoneCode":"+383",
   "capital":"Pristina",
-  "abbr":"KIR"
+  "abbr":"RSD"
   },
   {
   "name":"Kuwait",
   "phoneCode":"+965",
   "capital":"Kuwait City",
-  "abbr":"KWT"
+  "abbr":"KWD"
   },
   {
   "name":"Kyrgyzstan",
   "phoneCode":"+996",
   "capital":"Bishkek",
-  "abbr":"KGZ"
+  "abbr":"KGS"
   },
   {
   "name":"Laos",
   "phoneCode":"+856",
   "capital":"Vientiane",
-  "abbr":"LAO"
+  "abbr":"LAK"
   },
   {
   "name":"Latvia",
   "phoneCode":"+371",
   "capital":"Riga",
-  "abbr":"LVA"
+  "abbr":"LVL"
   },
   {
   "name":"Lebanon",
   "phoneCode":"+961",
   "capital":"Beirut",
-  "abbr":"LBN"
+  "abbr":"LBP"
   },
   {
   "name":"Lesotho",
   "phoneCode":"+266",
   "capital":"Maseru",
-  "abbr":"LSO"
+  "abbr":"LSL"
   },
   {
   "name":"Liberia",
   "phoneCode":"+231",
   "capital":"Monrovia",
-  "abbr":"LBR"
+  "abbr":"LRD"
   },
   {
   "name":"Libya",
   "phoneCode":"+218",
   "capital":"Tripoli",
-  "abbr":"LBY"
+  "abbr":"LYD"
   },
   {
   "name":"Liechtenstein",
   "phoneCode":"+423",
   "capital":"Vaduz",
-  "abbr":"LIE"
+  "abbr":"CHF"
   },
   {
   "name":"Lithuania",
   "phoneCode":"+370",
   "capital":"Vilnius",
-  "abbr":"LTU"
+  "abbr":"EUR"
   },
   {
   "name":"Luxembourg",
   "phoneCode":"+352",
   "capital":"Luxembourg(city)",
-  "abbr":"LUX"
+  "abbr":"EUR"
   },
   {
   "name":"Macao",
   "phoneCode":"+853",
   "capital":"Macao",
-  "abbr":"MAC"
+  "abbr":"MOP"
   },
   {
   "name":"Macedonia",
@@ -729,271 +717,265 @@ export const countries = [
   "name":"Madagascar",
   "phoneCode":"+261",
   "capital":"Antananarivo",
-  "abbr":"MDG"
+  "abbr":"MGA"
   },
   {
   "name":"Malawi",
   "phoneCode":"+265",
   "capital":"Lilongwe",
-  "abbr":"MWI"
+  "abbr":"MWK"
   },
   {
   "name":"Malaysia",
   "phoneCode":"+60",
   "capital":"Kuala Lumpur",
-  "abbr":"MYS"
+  "abbr":"MYR"
   },
   {
   "name":"Maldives",
   "phoneCode":"+960",
   "capital":"Male",
-  "abbr":"MDV"
+  "abbr":"MVR"
   },
   {
   "name":"Mali",
   "phoneCode":"+223",
   "capital":"Bamako",
-  "abbr":"MLI"
+  "abbr":"XOF"
   },
   {
   "name":"Malta",
   "phoneCode":"+356",
   "capital":"Valletta",
-  "abbr":"MLT"
+  "abbr":"EUR"
   },
   {
   "name":"Marshall Islands",
   "phoneCode":"+692",
   "capital":"Majuro",
-  "abbr":"MHL"
+  "abbr":"USD"
   },
   {
   "name":"Martinique",
   "phoneCode":"+596",
   "capital":"Fort-de-France",
-  "abbr":"MTQ"
+  "abbr":"EUR"
   },
   {
   "name":"Mauritania",
   "phoneCode":"+222",
   "capital":"Nouakchott",
-  "abbr":"MRT"
+  "abbr":"MRU"
   },
   {
   "name":"Mauritius",
   "phoneCode":"+230",
   "capital":"Port Louis",
-  "abbr":"MUS"
+  "abbr":"MUR"
   },
   {
   "name":"Mayotte",
   "phoneCode":"+262",
   "capital":"Mamoudzou",
-  "abbr":"MYT"
+  "abbr":"EUR"
   },
   {
   "name":"Mexico",
   "phoneCode":"+52",
   "capital":"Mexico City",
-  "abbr":"MEX"
+  "abbr":"MXN"
   },
   {
   "name":"Micronesia",
   "phoneCode":"+691",
   "capital":"Palikir",
-  "abbr":"MIC"
+  "abbr":"USD"
   },
   {
   "name":"Moldova",
   "phoneCode":"+373",
   "capital":"Chisinau",
-  "abbr":"MDA"
+  "abbr":"MDL"
   },
   {
   "name":"Monaco",
   "phoneCode":"+377",
   "capital":"Monaco",
-  "abbr":"MCO"
+  "abbr":"EUR"
   },
   {
   "name":"Mongolia",
   "phoneCode":"+976",
   "capital":"Ulaanbaatar",
-  "abbr":"MNG"
+  "abbr":"MNT"
   },
   {
   "name":"Montenegro",
   "phoneCode":"+382",
   "capital":"Podgorica",
-  "abbr":"MNE"
+  "abbr":"EUR"
   },
   {
   "name":"Montserrat",
   "phoneCode":"+1-664",
   "capital":"Plymouth",
-  "abbr":"MSR"
+  "abbr":"XCD"
   },
   {
   "name":"Morocco",
   "phoneCode":"+212",
   "capital":"Rabat",
-  "abbr":"MAR"
+  "abbr":"MAD"
   },
   {
   "name":"Mozambique",
   "phoneCode":"+258",
   "capital":"Maputo",
-  "abbr":"MOZ"
+  "abbr":"MZN"
   },
   {
   "name":"Myanmar",
   "phoneCode":"+95",
   "capital":"Naypyidaw",
-  "abbr":"MMR"
+  "abbr":"MMK"
   },
   {
   "name":"Namibia",
   "phoneCode":"+264",
   "capital":"Windhoek",
-  "abbr":"NAM"
+  "abbr":"NAD"
   },
   {
   "name":"Nauru",
   "phoneCode":"+674",
   "capital":"Yaren District",
-  "abbr":"NRU"
+  "abbr":"AUD"
   },
   {
   "name":"Nepal",
   "phoneCode":"+977",
   "capital":"Kathmandu",
-  "abbr":"NPL"
+  "abbr":"NPR"
   },
   {
   "name":"Netherlands",
   "phoneCode":"+31",
   "capital":"Amsterdam",
-  "abbr":"NLD"
+  "abbr":"EUR"
   },
   {
   "name":"Netherlands Antilles",
   "phoneCode":"+599",
   "capital":"willemstad",
-  "abbr":"ANT"
+  "abbr":"ANG"
   },
   {
   "name":"New Caledonia",
   "phoneCode":"+687",
   "capital":"Noumea",
-  "abbr":"NCL"
+  "abbr":"XPF"
   },
   {
   "name":"New Zealand",
   "phoneCode":"+64",
   "capital":"Wellington",
-  "abbr":"NZL"
+  "abbr":"NZD"
   },
   {
   "name":"Nicaragua",
   "phoneCode":"+505",
   "capital":"Managua",
-  "abbr":"NIC"
+  "abbr":"NIO"
   },
   {
   "name":"Niger",
   "phoneCode":"+227",
   "capital":"Niamey",
-  "abbr":"NER"
+  "abbr":"XOF"
   },
   {
   "name":"Nigeria",
   "phoneCode":"+234",
   "capital":"Abuja",
-  "abbr":"NGA"
+  "abbr":"NGN"
   },
   {
   "name":"Niue",
   "phoneCode":"+683",
   "capital":"Alofi",
-  "abbr":"NIU"
+  "abbr":"NZD"
   },
   {
   "name":"Norfolk Island",
   "phoneCode":"+672",
   "capital":"‎Kingston",
-  "abbr":"NFK"
+  "abbr":"AUD"
   },
   {
   "name":"North Korea",
   "phoneCode":"+850",
   "capital":"Pyongyang",
-  "abbr":"PRK"
+  "abbr":"KPW"
   },
   {
   "name":"Northern Mariana Islands",
   "phoneCode":"+1-670",
   "capital":"Saipan",
-  "abbr":"MNP"
+  "abbr":"USD"
   },
   {
   "name":"North Macedonia",
   "phoneCode":"+389",
   "capital":"Skopje",
-  "abbr":"MNP"
+  "abbr":"MKD"
   },
   {
   "name":"Norway",
   "phoneCode":"+47",
   "capital":"Oslo",
-  "abbr":"NOR"
+  "abbr":"NOK"
   },
   {
   "name":"Oman",
   "phoneCode":"+968",
   "capital":"Muscat",
-  "abbr":"OMN"
+  "abbr":"OMR"
   },
   {
   "name":"Pakistan",
   "phoneCode":"+92",
   "capital":"Islamabad",
-  "abbr":"PAK"
+  "abbr":"PKR"
   },
   {
   "name":"Palau",
   "phoneCode":"+680",
   "capital":"Ngerulmud",
-  "abbr":"PLW"
-  },
-  {
-  "name":"Palestine",
-  "phoneCode":"+970",
-  "capital":"Jerusalem(East)",
-  "abbr":"PSE"
+  "abbr":"USD"
   },
   {
   "name":"Panama",
   "phoneCode":"+507",
   "capital":"Panama City",
-  "abbr":"PAN"
+  "abbr":"PAB"
   },
   {
   "name":"Papua New Guinea",
   "phoneCode":"+675",
   "capital":"Port Moresby",
-  "abbr":"PNG"
+  "abbr":"PGK"
   },
   {
   "name":"Paraguay",
   "phoneCode":"+595",
   "capital":"Asunción",
-  "abbr":"PRY"
+  "abbr":"PYG"
   },
   {
   "name":"Peru",
   "phoneCode":"+51",
   "capital":"Lima",
-  "abbr":"PER"
+  "abbr":"PEN"
   },
   {
   "name":"Philippines",
@@ -1005,145 +987,145 @@ export const countries = [
   "name":"Poland",
   "phoneCode":"+48",
   "capital":"Warsaw",
-  "abbr":"POL"
+  "abbr":"PLN"
   },
   {
   "name":"Portugal",
   "phoneCode":"+351",
   "capital":"Lisbon",
-  "abbr":"PRT"
+  "abbr":"EUR"
   },
   {
   "name":"Puerto Rico",
   "phoneCode":"+1-787",
   "capital":"San Juan",
-  "abbr":"PRI"
+  "abbr":"USD"
   },
   {
   "name":"Qatar",
   "phoneCode":"+974",
   "capital":"Doha",
-  "abbr":"QAT"
+  "abbr":"QAR"
   },
   {
   "name":"Republic Of The Congo",
   "phoneCode":"+242",
   "capital":"Brazaville",
-  "abbr":"ROC"
+  "abbr":"CDF"
   },
   {
   "name":"Réunion",
   "phoneCode":"+262",
   "capital":"Saint-Denis",
-  "abbr":"REU"
+  "abbr":"EUR"
   },
   {
   "name":"Romania",
   "phoneCode":"+40",
   "capital":"Bucharest",
-  "abbr":"ROU"
+  "abbr":"RON"
   },
   {
   "name":"Russia",
   "phoneCode":"+7",
   "capital":"Moscow",
-  "abbr":"RUS"
+  "abbr":"RUB"
   },
   {
   "name":"Rwanda",
   "phoneCode":"+250",
   "capital":"Kigali",
-  "abbr":"RWA"
+  "abbr":"RWF"
   },
   {
   "name":"Saint Barthélemy",
   "phoneCode":"+590",
   "capital":"Gustavia",
-  "abbr":"BLM"
+  "abbr":"EUR"
   },
   {
   "name":"Saint Helena",
   "phoneCode":"+290",
   "capital":"Jamestown",
-  "abbr":"SHN"
+  "abbr":"SHP"
   },
   {
   "name":"Saint Kitts and Nevis",
   "phoneCode":"+1-869",
   "capital":"Basseterre",
-  "abbr":"KNA"
+  "abbr":"XCD"
   },
   {
   "name":"Saint Martin",
   "phoneCode":"+590",
   "capital":"Marigot",
-  "abbr":"MAF"
+  "abbr":"EUR"
   },
   {
   "name":"Saint Pierre and Miquelon",
   "phoneCode":"+508",
   "capital":"Saint-Pierre",
-  "abbr":"SPM"
+  "abbr":"EUR"
   },
   {
   "name":"Saint Vincent and the Grenadines",
   "phoneCode":"+1-784",
   "capital":"Kingstown",
-  "abbr":"VCT"
+  "abbr":"XCD"
   },
   {
   "name":"Samoa",
   "phoneCode":"+685",
   "capital":"Apia",
-  "abbr":"WSM"
+  "abbr":"WST"
   },
   {
   "name":"San Marino",
   "phoneCode":"+378",
   "capital":"San Marino",
-  "abbr":"SMR"
+  "abbr":"EUR"
   },
   {
   "name":"São Tomé and Príncipe",
   "phoneCode":"+239",
   "capital":"São Tomé",
-  "abbr":"STP"
+  "abbr":"STN"
   },
   {
   "name":"Saudi Arabia",
   "phoneCode":"+966",
   "capital":"Riyadh",
-  "abbr":"SAU"
+  "abbr":"SAR"
   },
   {
   "name":"Senegal",
   "phoneCode":"+221",
   "capital":"Dakar",
-  "abbr":"SEN"
+  "abbr":"XOF"
   },
   {
   "name":"Serbia",
   "phoneCode":"+381",
   "capital":"Belgrade",
-  "abbr":"SRB"
+  "abbr":"RSD"
   },
   {
   "name":"Seychelles",
   "phoneCode":"+248",
   "capital":"Victoria",
-  "abbr":"SYC"
+  "abbr":"SCR"
   },
   {
   "name":"Sierra Leone",
   "phoneCode":"+232",
   "capital":"Freetown",
-  "abbr":"SLE"
+  "abbr":"SLL"
   },
   {
   "name":"Singapore",
   "phoneCode":"+65",
   "capital":"Singapore",
-  "abbr":"SGP"
+  "abbr":"SGD"
   },
   {
   "name":"Sint Maarten (Dutch part)",
@@ -1155,85 +1137,85 @@ export const countries = [
   "name":"Slovakia",
   "phoneCode":"+421",
   "capital":"Bratislava",
-  "abbr":"SVK"
+  "abbr":"SKK"
   },
   {
   "name":"Slovenia",
   "phoneCode":"+386",
   "capital":"Ljubljana",
-  "abbr":"SVN"
+  "abbr":"EUR"
   },
   {
   "name":"Solomon Islands",
   "phoneCode":"+677",
   "capital":"Honiara",
-  "abbr":"SLB"
+  "abbr":"SBD"
   },
   {
   "name":"Somalia",
   "phoneCode":"+252",
   "capital":"Mogadishu",
-  "abbr":"SOM"
+  "abbr":"SOS"
   },
   {
   "name":"South Africa",
   "phoneCode":"+27",
   "capital":"Pretoria, Cape Town, Bloemfontein ",
-  "abbr":"ZAF"
+  "abbr":"ZAR"
   },
   {
   "name":"South Korea",
   "phoneCode":"+82",
   "capital":"Seoul",
-  "abbr":"KOR"
+  "abbr":"KRW"
   },
   {
   "name":"South Sudan",
   "phoneCode":"+211",
   "capital":"Juba",
-  "abbr":"SSD"
+  "abbr":"SSP"
   },
   {
   "name":"Spain",
   "phoneCode":"+34",
   "capital":"Madrid",
-  "abbr":"ESP"
+  "abbr":"EUR"
   },
   {
   "name":"Sri Lanka",
   "phoneCode":"+94",
   "capital":"Sri Jayawardenepura Kotte",
-  "abbr":"LKA"
+  "abbr":"LKR"
   },
   {
   "name":"Saint Lucia",
   "phoneCode":"+1-758",
   "capital":"Castries",
-  "abbr":"LCA"
+  "abbr":"XCD"
   },
   {
   "name":"Sudan",
   "phoneCode":"+249",
   "capital":"Khartoum",
-  "abbr":"SDN"
+  "abbr":"SDG"
   },
   {
   "name":"Suriname",
   "phoneCode":"+597",
   "capital":"Paramaribo",
-  "abbr":"SUR"
+  "abbr":"SRD"
   },
   {
   "name":"Swaziland",
   "phoneCode":"+268",
   "capital":"Mbabane",
-  "abbr":"SWZ"
+  "abbr":"SZL"
   },
   {
   "name":"Sweden",
   "phoneCode":"+46",
   "capital":"Stockholm",
-  "abbr":"SWE"
+  "abbr":"SEK"
   },
   {
   "name":"Switzerland",
@@ -1245,116 +1227,116 @@ export const countries = [
   "name":"Syrian Arab Republic",
   "phoneCode":"+963",
   "capital":"Damascus",
-  "abbr":"SYR"
+  "abbr":"SYP"
   },
   {
   "name":"Taiwan",
   "phoneCode":"+886",
   "capital":"Taipei",
-  "abbr":"TWN"
+  "abbr":"TWD"
   },
   {
   "name":"Tajikistan",
   "phoneCode":"+992",
   "capital":"Dushanbe",
-  "abbr":"TJK"
+  "abbr":"TJS"
   },
   {
   "name":"Tanzania",
   "phoneCode":"+255",
   "capital":"Dodoma",
-  "abbr":"TZA"
+  "abbr":"TZS"
   },
   {
   "name":"Thailand",
   "phoneCode":"+66",
   "capital":"Bangkok",
-  "abbr":"THA"
+  "abbr":"THB"
   },
  
   {
   "name":"Timor-Leste",
   "phoneCode":"+670",
   "capital":"Dili",
-  "abbr":"TLS"
+  "abbr":"USD"
   },
   {
   "name":"Togo",
   "phoneCode":"+228",
   "capital":"Lomé",
-  "abbr":"TGO"
+  "abbr":"XOF"
   },
   {
   "name":"Tokelau",
   "phoneCode":"+690",
   "capital":"(UNDETERMINED)",
-  "abbr":"TKL"
+  "abbr":"NZD"
   },
   {
   "name":"Tonga",
   "phoneCode":"+676",
   "capital":"Nukuʻalofa",
-  "abbr":"TON"
+  "abbr":"TOP"
   },
   {
   "name":"Trinidad and Tobago",
   "phoneCode":"+1-868",
   "capital":"Port of Spain",
-  "abbr":"TTO"
+  "abbr":"TTD"
   },
   {
   "name":"Tunisia",
   "phoneCode":"+216",
   "capital":"Tunis",
-  "abbr":"TUN"
+  "abbr":"TND"
   },
   {
   "name":"Turkey",
   "phoneCode":"+90",
   "capital":"Ankara",
-  "abbr":"TUR"
+  "abbr":"TRY"
   },
   {
   "name":"Turkmenistan",
   "phoneCode":"+993",
   "capital":"Ashgabat",
-  "abbr":"TKM"
+  "abbr":"TMT"
   },
   {
   "name":"Turks and Caicos Islands",
   "phoneCode":"+1-649",
   "capital":"Cockburn Town",
-  "abbr":"TCA"
+  "abbr":"USD"
   },
   {
   "name":"Tuvalu",
   "phoneCode":"+688",
   "capital":"Funafuti",
-  "abbr":"TUV"
+  "abbr":"AUD"
   },
   {
   "name":"Uganda",
   "phoneCode":"+256",
   "capital":"Kampala",
-  "abbr":"UGA"
+  "abbr":"UGX"
   },
   {
   "name":"Ukraine",
   "phoneCode":"+380",
   "capital":"Kyiv ",
-  "abbr":"UKR"
+  "abbr":"UAH"
   },
   {
   "name":"United Arab Emirates",
   "phoneCode":"+971",
   "capital":"Abu Dhabi",
-  "abbr":"ARE"
+  "abbr":"AED"
   },
   {
   "name":"United Kingdom",
   "phoneCode":"+44",
   "capital":"London",
-  "abbr":"GBR"
+  "abbr":"GBP"
   },
   {
   "name":"United States",
@@ -1366,66 +1348,66 @@ export const countries = [
   "name":"Uruguay",
   "phoneCode":"+598",
   "capital":"Montevideo",
-  "abbr":"URY"
+  "abbr":"UYI"
   },
   {
   "name":"U.S. Virgin Islands",
   "phoneCode":"+1-340",
   "capital":"CHARLOTTE AMALIE",
-  "abbr":"VIR"
+  "abbr":"XCD"
   },
   {
   "name":"Uzbekistan",
   "phoneCode":"+998",
   "capital":"Tashkent",
-  "abbr":"UZB"
+  "abbr":"UZS"
   },
   {
   "name":"Vanuatu",
   "phoneCode":"+678",
   "capital":"Port Vila",
-  "abbr":"VUT"
+  "abbr":"VUV"
   },
   {
   "name":"Vatican City",
   "phoneCode":"+39",
   "capital":"Vatican City",
-  "abbr":"VAT"
+  "abbr":"EUR"
   },
   {
   "name":"Venezuela",
   "phoneCode":"+58",
   "capital":"Caracas",
-  "abbr":"VEN"
+  "abbr":"VEF"
   },
   {
   "name":"Vietnam",
   "phoneCode":"+84",
   "capital":"Hanoi",
-  "abbr":"VNM"
+  "abbr":"VND"
   },
   {
   "name":"Wallis and Futuna",
   "phoneCode":"+681",
   "capital":"Mata Utu",
-  "abbr":"WLF"
+  "abbr":"XPF"
   },
   {
   "name":"Yemen",
   "phoneCode":"+967",
   "capital":"Sana'a",
-  "abbr":"YEM"
+  "abbr":"YER"
   },
   {
   "name":"Zambia",
   "phoneCode":"+260",
   "capital":"Lusaka",
-  "abbr":"ZMB"
+  "abbr":"ZMW"
   },
   {
   "name":"Zimbabwe",
   "phoneCode":"+263",
   "capital":"Harare",
-  "abbr":"ZWE"
+  "abbr":"ZWL"
   },
   ]

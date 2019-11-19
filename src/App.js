@@ -95,25 +95,15 @@ class App extends Component {
     return (
       <div>
         <form onSubmit={this.submitForm}>
-          <input 
-            name="origin"
-            value={this.state.origin}
-            placeholder="current currency"
-            onChange={this.updateInput}
+          <label>current currency</label>
+          <Autocomplete 
+            suggestions={this.state.countryNames}
+            completeTest={this.completeTest}
             />
-            <Autocomplete 
-              suggestions={this.state.countryNames}
-              completeTest={this.completeTest}
-              />
-            <Autocomplete 
-              suggestions={this.state.countryNames}
-              completeTest={this.completeTest}
-              />
-          <input 
-            name="destination"
-            value={this.state.destination}
-            placeholder="convert to"
-            onChange={this.updateInput}
+          <label>convert to</label>
+          <Autocomplete 
+            suggestions={this.state.countryNames}
+            completeTest={this.completeTest}
             />
           <button onClick={this.submitForm}> submit </button>
         </form>

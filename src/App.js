@@ -58,8 +58,6 @@ class App extends Component {
         this.setState({destination: destinationCountry.abbr})
       }
     }
-    // this.setState({test: arr, origin: z, destination: y})
-    // this.checkInput()
   }
 
   checkInput = () => {
@@ -81,6 +79,7 @@ class App extends Component {
     console.log(response)
     this.setState({exchangeRate: response})
     console.log(currencySymbols.USD)
+    this.setState({test: []})
     return response;
   }
 
